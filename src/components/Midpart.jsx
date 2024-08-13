@@ -66,7 +66,7 @@ useEffect(() => {
               </div>
         <div ref = {imm} className='flex justify-center pointer-events-none'>
         
-              <img src = "src/components/CutOut.png" className='h-[38vw] w-[30vw] isolate -translate-y-[0vw] translate-x-[11vw] '/>
+              <img src = "https://raw.githubusercontent.com/karan2924/my-portfolio/main/src/components/CutOut.png" className='h-[38vw] w-[30vw] isolate -translate-y-[0vw] translate-x-[11vw] '/>
             
        </div>
     </div>
